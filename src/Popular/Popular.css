@@ -1,0 +1,17 @@
+.popular{
+    background: #F8F8F8;
+}
+.Popular___title{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #BB2339;
+    margin-bottom: 40px;
+}
+.row__block {
+    text-align: -webkit-center;
+}

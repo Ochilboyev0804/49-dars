@@ -1,0 +1,37 @@
+.hero{
+    background-color: rgba(187, 35, 57, 1);
+}
+.subtitle{
+    font-weight: 700;
+font-size: 23px;
+line-height: 130%;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #FFFFFF;
+margin-bottom: 25px;
+}
+.title {
+    font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 130%;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+color: #FFFFFF;
+margin-bottom: 20px;
+}
+.text {
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 175%;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+opacity: 0.7;
+margin-bottom: 48px;
+}
+.btn{
+    border-radius: 25px;
+    padding: 10px 35px;
+}

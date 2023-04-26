@@ -1,0 +1,23 @@
+.Nav{
+    background-color:rgba(187, 35, 57, 1);
+}
+.Navbar-btn{
+    border-radius: 25px;
+    padding: 10px 35px;
+    font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 175%;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+color: #ffffff;
+}
+.Navbar-btn:hover{
+    color: black;
+}
+.link:hover {
+    color: black;
+}
+.link {
+    color: white;
+}

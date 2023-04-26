@@ -1,0 +1,47 @@
+.card-title{
+    font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #242424;
+margin-bottom: 10px;
+}
+.card-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #AAAAAA;
+    margin-bottom: 17px;
+}
+.card {
+    border-radius: 18px;
+}
+.card-more{
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+letter-spacing: 0.04em;
+color: #BB2339;
+}
+.Card-span{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #242424;
+opacity: 0.5;
+text-align: end;
+}
+.btn {
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 175%;
+letter-spacing: 0.04em;
+color: #242424;
+margin-bottom: 128px;
+}
